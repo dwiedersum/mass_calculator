@@ -4,7 +4,7 @@ Calculates your Mass on every Planet.
 
 ### Rationale
 
-Improve my epic PHP skillz.
+To improve my epic PHP skillz.
 
 ### License
 
