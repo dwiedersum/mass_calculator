@@ -1,6 +1,6 @@
 ## mass_calculator
 
-Calculating your mass on the moon.
+Calculating your weight force on earth and moon.
 
 ### Rationale
 
