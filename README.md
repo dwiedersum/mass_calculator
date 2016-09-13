@@ -1,6 +1,6 @@
-## mass-calculator
+## mass_calculator
 
-Calculates your Mass on every Planet.
+Calculating your mass on the moon.
 
 ### Rationale
 
